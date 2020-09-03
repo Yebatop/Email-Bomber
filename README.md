@@ -8,6 +8,6 @@ Usage :
 
 1) git clone https://github.com/mohinparamasivam/Email_Bomber.git
 2) cd Email_Bomber
-3) python emailbomber.py
+3) python2 emailbomber.py
 
 
